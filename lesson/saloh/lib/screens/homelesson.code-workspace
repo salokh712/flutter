@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../folder.zip/folder/homelesson"
+		},
+		{
+			"path": "../../../lesson_flutter"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
